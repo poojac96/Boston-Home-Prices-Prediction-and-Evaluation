@@ -15,7 +15,12 @@ A model like this would be very valuable for a real state agent who could make u
  #    Import libraries necessary for this project 
  
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import sklearn.datasets
+
